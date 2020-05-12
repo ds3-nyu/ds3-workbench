@@ -10,7 +10,7 @@ DS3 Workbench - Data Access Layer
 About
 =====
 
-This package implements the base layer for the DS3 Workbench. This layer provides the classes and methods required to access and manipulate database objects as well as the default implementation of the match making tool. Included in the package is a simple command line tool to setup and administrate a DS3 Workbench instance. This layer is the foundation that all other layers in the DS3 Workbench architecture depend upon.
+This repository contains references to different components for the DS3 Workbench.
 
 
 More Information
