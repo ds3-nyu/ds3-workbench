@@ -1,20 +1,11 @@
-=================================
-DS3 Workbench - Data Access Layer
-=================================
+=============
+DS3 Workbench
+=============
 
 .. image:: https://img.shields.io/badge/License-GPL--3.0--or--later-blue.svg
    :target: https://github.com/ds3-nyu/ds3-workbench/blob/master/LICENSE
 
 
-
-About
-=====
-
-This repository contains references to different components for the DS3 Workbench.
-
-
-More Information
-================
 
 The **DS3 Workbench** forms the umbrella for inward-facing projects that build infrastructure for Data Science & Software Services (DS3) operations. The main goal is to support intake and management of faculty research projects that are supported by DS3. In particular, the workbench will provide to following functionality:
 
