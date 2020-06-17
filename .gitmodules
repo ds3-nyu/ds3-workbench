@@ -1,0 +1,16 @@
+[submodule "ds3-workbench-core"]
+	path = ds3-workbench-core
+	url = git@github.com:ds3-nyu/ds3-workbench-core.git
+	branch = master
+[submodule "ds3-workbench-flaskapi"]
+	path = ds3-workbench-flaskapi
+	url = git@github.com:ds3-nyu/ds3-workbench-flaskapi.git
+	branch = master
+[submodule "ds3-workbench-ui-external"]
+	path = ds3-workbench-ui-external
+	url = git@github.com:ds3-nyu/ds3-workbench-ui-external.git
+	branch = master
+[submodule "ds3-workbench-ui-admin"]
+	path = ds3-workbench-ui-admin
+	url = git@github.com:ds3-nyu/ds3-workbench-ui-admin.git
+	branch = master
