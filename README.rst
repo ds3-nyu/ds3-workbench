@@ -44,7 +44,7 @@ The grant recommendation engine uses `GrantForward <https://www.grantforward.com
 
 
 Installation
-============
+------------
 
 Follow the instructions on the `Development Setup page <https://github.com/ds3-nyu/ds3-workbench/blob/master/docs/setup.rst>`_ to setup an instance of the workbench Web API. The user interface is currently distributed across two repositories:
 
