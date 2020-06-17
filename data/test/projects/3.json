@@ -1,0 +1,52 @@
+{
+    "title": "An AI assistant for breast radiologists",
+    "description": "We want to deploy deep neural networks that interpret breast cancer screening exams as an \"AI assistant\" for breast radiologists to validate its clinical value. The outcome of this experiment will inform both future designs of deep neural networks and future designs of AI-radiologist collaboration mechanisms.",
+    "expected_time": {
+        "start_date": "2020-01-27",
+        "end_date": "2020-05-31"
+    },
+    "funding_status_id": 1,
+    "researchers": [
+        {
+            "full_name": "Peter G. Shinas",
+            "email": "p.g..shinas@nyu.edu",
+            "affiliations": [
+                {
+                    "affiliation_id": 96,
+                    "status_id": 10
+                }
+            ]
+        }
+    ],
+    "resources": [
+        {
+            "expected_time": {
+                "start_date": "2020-01-27",
+                "end_date": "2020-05-31"
+            },
+            "weekly_hours": 20,
+            "skills": [
+                {
+                    "skill_id": 27,
+                    "skill_level_id": 3,
+                    "mandatory": true
+                },
+                {
+                    "skill_id": 58,
+                    "skill_level_id": 3,
+                    "mandatory": true
+                },
+                {
+                    "skill_id": 70,
+                    "skill_level_id": 3,
+                    "mandatory": true
+                },
+                {
+                    "skill_id": 88,
+                    "skill_level_id": 3,
+                    "mandatory": true
+                }
+            ]
+        }
+    ]
+}

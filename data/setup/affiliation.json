@@ -1,0 +1,14 @@
+{
+    "files": [
+        {
+            "filename": "affiliation_nyu.csv",
+            "module": "ds3core.model.affiliation",
+            "class": "Affiliation"
+        },
+        {
+            "filename": "affiliation_nyu_hierarchy.csv",
+            "module": "ds3core.model.affiliation",
+            "class": "AffiliationHierarchy"
+        }
+    ]
+}

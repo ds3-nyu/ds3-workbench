@@ -1,0 +1,47 @@
+{
+    "title": "Online App for Perceptual Training to Help Foundational Reading Skills",
+    "description": "Our lab is conducting a study in which children and adults listen to different speech samples to determine whether this exposure to variable stimuli will improve how people hear acoustic-phonetic detail in speech. In the current version, subjects must come to the lab 3-6 times to allow them to have protracted training over multiple sessions. We are interested in making the training more easily accessible to research subjects and in making the administration easier for us as researchers by creating an online appof the training program.",
+    "expected_time": {
+        "start_date": "2020-01-27",
+        "end_date": "2020-05-31"
+    },
+    "funding_status_id": 2,
+    "researchers": [
+        {
+            "full_name": "Sandra Ellis",
+            "email": "Sandra.Ellis@nyu.edu",
+            "affiliations": [
+                {
+                    "affiliation_id": 8,
+                    "status_id": 6
+                }
+            ]
+        }
+    ],
+    "resources": [
+        {
+            "expected_time": {
+                "start_date": "2020-01-27",
+                "end_date": "2020-05-31"
+            },
+            "weekly_hours": 20,
+            "skills": [
+                {
+                    "skill_id": 87,
+                    "skill_level_id": 1,
+                    "mandatory": true
+                },
+                {
+                    "skill_id": 65,
+                    "skill_level_id": 2,
+                    "mandatory": true
+                },
+                {
+                    "skill_id": 115,
+                    "skill_level_id": 3,
+                    "mandatory": true
+                }
+            ]
+        }
+    ]
+}

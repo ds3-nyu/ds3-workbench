@@ -1,0 +1,37 @@
+{
+    "title": "Machine Learning for Remote Sensing Data",
+    "description": "We would like to explore machine learning based alternatives to estimating data points derived from laser scanning. We have extremely good, state of the art data that needs little cleaning.",
+    "expected_time": {
+        "start_date": "2020-01-27",
+        "end_date": "2020-05-31"
+    },
+    "funding_status_id": 1,
+    "researchers": [
+        {
+            "full_name": "Suzanne Hardie",
+            "email": "Suzanne.Hardie@nyu.edu",
+            "affiliations": [
+                {
+                    "affiliation_id": 2,
+                    "status_id": 3
+                }
+            ]
+        }
+    ],
+    "resources": [
+        {
+            "expected_time": {
+                "start_date": "2020-01-27",
+                "end_date": "2020-05-31"
+            },
+            "weekly_hours": 20,
+            "skills": [
+                {
+                    "skill_id": 64,
+                    "skill_level_id": 3,
+                    "mandatory": true
+                }
+            ]
+        }
+    ]
+}

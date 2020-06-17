@@ -1,0 +1,109 @@
+affiliation_org_hierarchy_id,affiliation_id,parent_id,short_name,long_name,description
+1,1,-1,Arts &amp; Science,Arts &amp; Science,Arts &amp; Science
+2,2,1,Africana Studies,Africana Studies,Africana Studies
+3,3,1,American Studies,American Studies,American Studies
+4,4,1,Ancient Near Eastern and Egyptian Studies,Ancient Near Eastern and Egyptian Studies,Ancient Near Eastern and Egyptian Studies
+5,5,1,Ancient Studies,Ancient Studies,Ancient Studies
+6,6,1,Ancient Studies (minor only),Ancient Studies (minor only),Ancient Studies (minor only)
+7,7,1,Animal Studies,Animal Studies,Animal Studies
+8,8,1,Anthropology,Anthropology,Anthropology
+9,9,1,Art History,Art History,Art History
+10,10,1,Asian/Pacific/American Studies,Asian/Pacific/American Studies,Asian/Pacific/American Studies
+11,11,1,Biology,Biology,Biology
+12,12,1,Chemistry,Chemistry,Chemistry
+13,13,1,Cinema Studies,Cinema Studies,Cinema Studies
+14,14,1,Classics,Classics,Classics
+15,15,1,Comparative Literature,Comparative Literature,Comparative Literature
+16,16,1,Computer Science,Computer Science,Computer Science
+17,17,1,Creative Writing,Creative Writing,Creative Writing
+18,18,1,Digital Humanities and Social Science,Digital Humanities and Social Science,Digital Humanities and Social Science
+19,19,1,Dramatic Literature,Dramatic Literature,Dramatic Literature
+20,20,1,East Asian Studies,East Asian Studies,East Asian Studies
+21,21,1,Economics,Economics,Economics
+22,22,1,English,English,English
+23,23,1,Environmental Studies,Environmental Studies,Environmental Studies
+24,24,1,Fine Arts,Fine Arts,Fine Arts
+25,25,1,French,French,French
+26,26,1,French Studies,French Studies,French Studies
+27,27,1,Gender and Sexuality Studies,Gender and Sexuality Studies,Gender and Sexuality Studies
+28,28,1,German,German,German
+29,29,1,Hebrew and Judaic Studies,Hebrew and Judaic Studies,Hebrew and Judaic Studies
+30,30,1,Hellenic Studies,Hellenic Studies,Hellenic Studies
+31,31,1,History,History,History
+32,32,1,International Relations,International Relations,International Relations
+33,33,1,Irish Studies (minor only),Irish Studies (minor only),Irish Studies (minor only)
+34,34,1,Italian Studies,Italian Studies,Italian Studies
+35,35,1,Journalism,Journalism,Journalism
+36,36,1,Language and Mind,Language and Mind,Language and Mind
+37,37,1,Latino Studies,Latino Studies,Latino Studies
+38,38,1,Law and Society (minor only),Law and Society (minor only),Law and Society (minor only)
+39,39,1,Linguistics,Linguistics,Linguistics
+40,40,1,Mathematics,Mathematics,Mathematics
+41,41,1,Metropolitan Studies,Metropolitan Studies,Metropolitan Studies
+42,42,1,Middle Eastern and Islamic Studies,Middle Eastern and Islamic Studies,Middle Eastern and Islamic Studies
+43,43,1,Museum Studies,Museum Studies,Museum Studies
+44,44,1,Music,Music,Music
+45,45,1,Philosophy,Philosophy,Philosophy
+46,46,1,Physics,Physics,Physics
+47,47,1,Politics,Politics,Politics
+48,48,1,Psychology,Psychology,Psychology
+49,49,1,"Psychotherapy and Psychoanalysis, Postdoctoral Program","Psychotherapy and Psychoanalysis, Postdoctoral Program","Psychotherapy and Psychoanalysis, Postdoctoral Program"
+50,50,1,Religious Studies,Religious Studies,Religious Studies
+51,51,1,Russian and Slavic Studies,Russian and Slavic Studies,Russian and Slavic Studies
+52,52,1,Social and Cultural Analysis,Social and Cultural Analysis,Social and Cultural Analysis
+53,53,1,Social and Cultural Analysis Program,Social and Cultural Analysis Program,Social and Cultural Analysis Program
+54,54,1,Sociology,Sociology,Sociology
+55,55,1,Spanish and Portuguese,Spanish and Portuguese,Spanish and Portuguese
+56,56,1,XE: Experimental Humanities &amp; Social Engagement,XE: Experimental Humanities &amp; Social Engagement,XE: Experimental Humanities &amp; Social Engagement
+57,57,1,College of Arts &amp; Science,College of Arts &amp; Science,College of Arts &amp; Science
+58,58,1,Graduate School of Arts &amp; Science,Graduate School of Arts &amp; Science,Graduate School of Arts &amp; Science
+59,59,1,Liberal Studies,Liberal Studies,Liberal Studies
+60,60,-1,College of Dentistry,College of Dentistry,College of Dentistry
+61,61,60,Basic Science & Craniofacial Biology,Basic Science & Craniofacial Biology,Basic Science & Craniofacial Biology
+62,62,60,Biomaterials,Biomaterials,Biomaterials
+63,63,60,Cariology & Comprehensive Care,Cariology & Comprehensive Care,Cariology & Comprehensive Care
+64,64,60,Epidemiology & Health Promotion,Epidemiology & Health Promotion,Epidemiology & Health Promotion
+65,65,60,Oral and Maxillofacial Surgery,Oral and Maxillofacial Surgery,Oral and Maxillofacial Surgery
+66,66,60,"Oral & Maxillofacial Pathology, Radiology and Medicine","Oral & Maxillofacial Pathology, Radiology and Medicine","Oral & Maxillofacial Pathology, Radiology and Medicine"
+67,67,60,Orthodontics,Orthodontics,Orthodontics
+68,68,60,Pediatric Dentistry,Pediatric Dentistry,Pediatric Dentistry
+69,69,60,Periodontology & Implant Dentistry,Periodontology & Implant Dentistry,Periodontology & Implant Dentistry
+70,70,60,Prosthodontics,Prosthodontics,Prosthodontics
+71,71,-1,Courant Institute of Mathematical Sciences,Courant Institute of Mathematical Sciences,Courant Institute of Mathematical Sciences
+72,72,71,Center for Atmosphere Ocean Science,Center for Atmosphere Ocean Science,Center for Atmosphere Ocean Science
+73,73,-1,Gallatin School of Individualized Study,Gallatin School of Individualized Study,Gallatin School of Individualized Study
+74,74,-1,The Institute of Fine Arts,The Institute of Fine Arts,The Institute of Fine Arts
+75,75,-1,Institute for the Study of the Ancient World,Institute for the Study of the Ancient World,Institute for the Study of the Ancient World
+76,76,-1,Leonard N. Stern School of Business,Leonard N. Stern School of Business,Leonard N. Stern School of Business
+77,77,76,Stern Center for Research Computing,Stern Center for Research Computing,Stern Center for Research Computing
+78,78,76,Center for Behavioral Research,Center for Behavioral Research,Center for Behavioral Research
+79,79,-1,Robert F. Wagner Graduate School of Public Service,Robert F. Wagner Graduate School of Public Service,Robert F. Wagner Graduate School of Public Service
+80,80,79,Research Centers &amp; Institutes,Research Centers &amp; Institutes,Research Centers &amp; Institutes
+81,81,79,Financial Access Initiative,Financial Access Initiative,Financial Access Initiative
+82,82,79,Furman Center for Real Estate &amp; Urban Policy,Furman Center for Real Estate &amp; Urban Policy,Furman Center for Real Estate &amp; Urban Policy
+83,83,79,Rudin Center for Transportation Policy &amp; Management,Rudin Center for Transportation Policy &amp; Management,Rudin Center for Transportation Policy &amp; Management
+84,84,79,The Health Evaluation and Analytics Lab,The Health Evaluation and Analytics Lab,The Health Evaluation and Analytics Lab
+85,85,79,John Brademas Center of New York University,John Brademas Center of New York University,John Brademas Center of New York University
+86,86,79,Institute for Civil Infrastructure Systems (ICIS),Institute for Civil Infrastructure Systems (ICIS),Institute for Civil Infrastructure Systems (ICIS)
+87,87,79,Institute of Human Development &amp; Social Change,Institute of Human Development &amp; Social Change,Institute of Human Development &amp; Social Change
+88,88,79,The Marron Institute of Urban Management,The Marron Institute of Urban Management,The Marron Institute of Urban Management
+89,89,-1,Rory Meyers College of Nursing,Rory Meyers College of Nursing,Rory Meyers College of Nursing
+90,90,-1,School of Global Public Health,School of Global Public Health,School of Global Public Health
+91,91,-1,School of Professional Studies,School of Professional Studies,School of Professional Studies
+92,92,91,The Jonathan M. Tisch Center for Hospitality and Tourism,The Jonathan M. Tisch Center for Hospitality and Tourism,The Jonathan M. Tisch Center for Hospitality and Tourism
+93,93,91,Schack Institute of Real Estate,Schack Institute of Real Estate,Schack Institute of Real Estate
+94,94,91,Center for Global Affairs,Center for Global Affairs,Center for Global Affairs
+95,95,91,Preston Robert Tisch Institute for Global Sport,Preston Robert Tisch Institute for Global Sport,Preston Robert Tisch Institute for Global Sport
+96,96,-1,School of Law,School of Law,School of Law
+97,97,-1,School of Medicine,School of Medicine,School of Medicine
+98,98,97,NYU Langone Medical Center,NYU Langone Medical Center,NYU Langone Medical Center
+99,99,97,NYU Long Island School of Medicine,NYU Long Island School of Medicine,NYU Long Island School of Medicine
+100,100,-1,Silver School of Social Work,Silver School of Social Work,Silver School of Social Work
+101,101,-1,"Steinhardt School of Culture, Education, and Human Development","Steinhardt School of Culture, Education, and Human Development","Steinhardt School of Culture, Education, and Human Development"
+102,102,-1,Tandon School of Engineering,Tandon School of Engineering,Tandon School of Engineering
+103,103,-1,Tisch School of the Arts,Tisch School of the Arts,Tisch School of the Arts
+104,104,-1,The Center for Urban Science and Progress (CUSP),The Center for Urban Science and Progress (CUSP),The Center for Urban Science and Progress (CUSP)
+105,105,-1,Center for Data Science (CDS),Center for Data Science (CDS),Center for Data Science (CDS)
+106,106,-1,Marron Institute on Cities and the Urban Environment,Marron Institute on Cities and the Urban Environment,Marron Institute on Cities and the Urban Environment
+107,107,-1,NYU Abu Dhabi,NYU Abu Dhabi,NYU Abu Dhabi
+108,108,-1,NYU Shanghai,NYU Shanghai,NYU Shanghai
