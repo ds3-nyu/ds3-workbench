@@ -40,3 +40,14 @@ Grant Recommendation
 --------------------
 
 The grant recommendation engine uses `GrantForward <https://www.grantforward.com/>`_ (a service that the University can subscribe to) for continuous queries (e.g., once a day) to identify grant opportunities for projects that do not yet have funding.
+
+
+
+Installation
+============
+
+Follow the instructions on the `Development Setup page <https://github.com/ds3-nyu/ds3-workbench/blob/master/docs/setup.rst>`_ to setup an instance of the workbench Web API. The user interface is currently distributed across two repositories:
+
+- `External UI <https://github.com/ds3-nyu/ds3-workbench-ui-external>`_: External facing user interface for submitting project proposals and registering student workers.
+- `Admin UI <https://github.com/ds3-nyu/ds3-workbench-ui-admin>`_: Internal facing user interface that provides functionality for DS3 administrators to view match making results and manage worker allocations.
+
