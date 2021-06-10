@@ -40,8 +40,8 @@ After you have activated your virtual environment, you can install the Python mo
 
 .. code-block:: console
 
+    pip install -e ds3-workbench/ds3-workbench-api/
     pip install -e ds3-workbench/ds3-workbench-core/
-    pip install -e ds3-workbench/ds3-workbench-flaskapi/
 
 
 
